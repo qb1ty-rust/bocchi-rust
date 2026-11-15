@@ -1,0 +1,8 @@
+[package]
+name = "project-01"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = {version = "0.5.3", features = ["unstable_grab"]}
+xcap = "0.9.10"
